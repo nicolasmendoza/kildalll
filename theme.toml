@@ -1,0 +1,20 @@
+# theme.toml template for a Hugo theme
+
+name = "Kildall"
+license = "MIT"
+licenselink = "https://github.com/nicolasmendoza/kildall/blob/master/LICENSE.md"
+description = "Fast, reponsive, moder material design template"
+homepage = "http://kildall.github.io"
+tags = []
+features = []
+min_version = "0.32.4"
+
+[author]
+  name = ""
+  homepage = ""
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
